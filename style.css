@@ -21,9 +21,9 @@ a:hover {
 .table {
     table-layout: fixed;
     width: 100%;
-    /*border-collapse: collapse;*/
+    border-collapse: collapse;
     background-color: #ffffff;
-    border: 4px solid #ffffff;
+    border: 1px solid #ffffff;
     text-align: center;
 }
 
@@ -85,7 +85,6 @@ a:hover {
     margin-bottom: 10px;
     padding: 5px 10px 15px 10px;
     background-color: #dbe0e8;
-    border-radius: 10px;
 }
 
 .list {
@@ -101,11 +100,10 @@ a:hover {
 }
 
 .btn {
-    background: #fff;
+    background: #a8cbb7;
     padding: 5px 10px;
     margin-top: 20px;
-    border: 1px solid rgba(40, 37, 37, 0.8);
-    border-radius: 5px;
+    border: 1px solid #fff;
     font-family: inherit;
     font-size: 13px;
     color: rgba(40, 37, 37, 0.8);
@@ -124,10 +122,8 @@ a:hover {
 }
 
 .form-row .form-group {
-    /*display: inline-block;*/
     margin-right: 20px;
     width: 50%;
-    /*width: calc(50% - 20px);*/
 }
 
 .form-row .form-group:last-child {
