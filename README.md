@@ -1,5 +1,3 @@
-## Мое Резюме
+### Ссылка на резюме:
 
-### Чтобы увидеть перейдите по ссылке:
-
-[My resume](https://katsiarynazaviadzeyeva.github.io/resume/)
+[resume](https://katsiarynazaviadzeyeva.github.io/resume/)
